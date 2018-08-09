@@ -2,6 +2,9 @@
 
 Backup of my i3-configuration.
 
-Place file in `~/.config/i3`.
+$ sudo apt-get install i3
+$ i3-config-wizard
+
+Place files in `~/.config/i3`.
 
 File name `config` (no file extension)
